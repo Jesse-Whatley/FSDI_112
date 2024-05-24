@@ -1,0 +1,22 @@
+install django
+    * pip3 install django
+        * django-admin
+
+how to start django project
+    * django-admin startproject config .  (. == the directory currently in) (config == name of file)
+        * python3 manage.py
+            * python3 manage.py runserver 
+
+django app creation
+    * python3 manage.py startapp (name of file)
+
+
+
+BASE_DIR == list of strings
+
+Sub modules of django are called APPS
+WE create APPS ourselves 
+
+ROOT_URLCONF = 
+
+views == http request
